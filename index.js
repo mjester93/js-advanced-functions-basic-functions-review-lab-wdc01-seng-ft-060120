@@ -20,6 +20,6 @@ const Calculator = {
   divide: (num1, num2) => {return num1 / num2}
 }
 
-const actionApplyer = () => {
+const actionApplyer = (start, ray) => {
 
 }
