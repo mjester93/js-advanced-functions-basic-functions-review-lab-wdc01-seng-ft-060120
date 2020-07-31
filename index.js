@@ -19,3 +19,7 @@ const Calculator = {
   multiply: (num1, num2) => {return num1 * num2},
   divide: (num1, num2) => {return num1 / num2}
 }
+
+const actionApplyer = () => {
+  
+}
